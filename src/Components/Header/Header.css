@@ -1,0 +1,14 @@
+
+
+.formHeading {
+    background-color: white;
+    /* height: 80px; */
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px;
+    font-size: 20px;
+    font-weight: bold;
+}

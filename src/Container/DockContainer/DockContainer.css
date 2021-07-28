@@ -1,0 +1,8 @@
+
+
+.leftContainer {
+    width: 15%;
+    height: 100vh;
+    box-shadow: 8px 0 5px -2px rgba(0, 0, 0, 0.2);
+    /* background-color: red; */
+  }

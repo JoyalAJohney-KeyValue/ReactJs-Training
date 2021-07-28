@@ -1,0 +1,27 @@
+
+
+.detailsContainer {
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.formDiv {
+    /* background-color: red; */
+    width: 100%;
+}
+
+.formDiv form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.buttonDiv {
+    margin-top: 1em;
+    /* background-color: purple; */
+    padding-left: 20px;
+    display: flex;
+    justify-content: left;
+}

@@ -1,0 +1,15 @@
+
+
+.heading {
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 60px;
+    font-size: 20px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    background-color: #2979ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
